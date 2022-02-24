@@ -1,1 +1,2 @@
-# Covid-19_Ontario_Data_Visualization_Project
+# Covid-19 Ontario Data Visualization Project
+
